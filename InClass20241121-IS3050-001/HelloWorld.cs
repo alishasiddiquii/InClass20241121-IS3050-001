@@ -7,7 +7,7 @@ namespace InClass20241121_IS3050_001
 {
     public class HelloWorld
     {
-        public static void 
-            console.writeline (HelloWorld)
+        public static void
+            Console.Writeline("Hey!");
     }
 }
